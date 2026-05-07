@@ -1,0 +1,47 @@
+ ¿Qué es la tabla de particiones?
+Es una estructura de datos que se guarda en un disco duro o SSD.
+Define cómo está dividido el disco en particiones.
+Indica:
+Dónde empieza y termina cada partición
+Tipo de partición
+Sistema de archivos (indirectamente)
+👉 Tipos más comunes:
+
+MBR (Master Boot Record) → antiguo, límite de 2 TB y 4 particiones primarias
+GPT (GUID Partition Table) → moderno, soporta discos grandes y más particiones
+⚙️ ¿Para qué sirve?
+Permite al sistema operativo:
+Organizar el almacenamiento
+Arrancar el sistema (boot)
+Separar datos (ej: sistema / archivos personales)
+Sin tabla de particiones → el disco no se puede usar correctamente
+🪟 ¿Dónde verla en Windows 10?
+Administración de discos
+Clic derecho en Inicio → Administración de discos
+Verás las particiones gráficamente
+Información del tipo (MBR o GPT)
+Clic derecho en el disco → Propiedades → pestaña Volúmenes
+💻 Comando en PowerShell
+ 
+Get-Disk
+ 
+Otros útiles:
+
+ 
+Get-Partition
+ 
+🐧 ¿Dónde verla en Linux?
+Se puede ver desde terminal con herramientas del sistema:
+
+💻 Comandos en Linux
+1. Mostrar particiones (más común)
+ 
+lsblk
+ 
+2. Ver tabla de particiones detallada
+ 
+sudo fdisk -l
+ 
+3. Alternativa moderna
+ 
+sudo parted -l
