@@ -29,3 +29,4 @@
 # Apuntes
 
 - [Sistemas de Archivos](./Teoria/Sistema_Archivos.txt)
+- [Tablas de Particiones](./Teoria/Tabla_Particiones.txt)
