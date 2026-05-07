@@ -19,6 +19,7 @@
 - [Enrique & Fernando](./scripts/enrique_fernando.sh)
 - [Ejercicio Usuarios & Permisos](./scripts/ejercicio_usuarios_permisos.sh)
 - [Ejercicio Poema](./scripts/poema.sh)
+- [Creación Carpetas Invitado](./scripts/carpetas_invitados.sh)
 
 # Librerías
 
