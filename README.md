@@ -19,5 +19,10 @@ Recopilación de Scripts y Apuntes en Bash almacenados con múltiples utilidades
 - [Ejercicio Usuarios & Permisos](./scripts/ejercicio_usuarios_permisos.sh)
 - [Ejercicio Poema](./scripts/poema.sh)
 
-# Apuntes
+# Librerías
+
+- [Comandos más básicos](./librerias/comandos.txt)
+- [Comandos Archivos Sistema](./librerias/Archivos_Sistemas.txt)
+
+  
 
