@@ -1,5 +1,7 @@
 # Scripts-Bash-Grado-Medio
 
+<img width="829" height="553" alt="image" src="https://github.com/user-attachments/assets/c6fb21c1-42d4-4d96-ac40-50d401d733ac" />
+
 ![Bash](https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Compatible-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
