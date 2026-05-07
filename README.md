@@ -9,15 +9,15 @@ Recopilación de Scripts y Apuntes en Bash almacenados con múltiples utilidades
 
 # Scripts
 
-- [Gestión de Usuarios](./Gestion_Usuarios.sh)
-- [Creación y Eliminación Usuarios](./Creacion_Eliminacion.sh)
-- [Menú de Opciones](./menu_opciones.sh)
-- [Animación Calavera](./calavera.sh)
-- [Comprobar Contraseña](.comprobar_contraseña.sh)
-- [Comprobar Usuarios](./comprobar_usuario.sh)
-- [Enrique & Fernando](./enrique_fernando.sh)
-- [Ejercicio Usuarios & Permisos](./ejercicio_usuarios_permisos.sh)
-- [Ejercicio Poema](./poema.sh)
+- [Gestión de Usuarios](./scripts/Gestion_Usuarios.sh)
+- [Creación y Eliminación Usuarios](./scripts/Creacion_Eliminacion.sh)
+- [Menú de Opciones](./scripts/menu_opciones.sh)
+- [Animación Calavera](./scripts/calavera.sh)
+- [Comprobar Contraseña](./scripts/comprobar_contraseña.sh)
+- [Comprobar Usuarios](./scripts/comprobar_usuario.sh)
+- [Enrique & Fernando](./scripts/enrique_fernando.sh)
+- [Ejercicio Usuarios & Permisos](./scripts/ejercicio_usuarios_permisos.sh)
+- [Ejercicio Poema](./scripts/poema.sh)
 
 # Apuntes
 
