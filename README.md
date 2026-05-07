@@ -1,5 +1,10 @@
 # Scripts-Bash-Grado-Medio
 
+![Bash](https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Compatible-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
+
 Recopilación de Scripts y Apuntes en Bash almacenados con múltiples utilidades.
 
 # Scripts
