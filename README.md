@@ -13,6 +13,5 @@ Recopilación de Scripts y Apuntes en Bash almacenados con múltiples utilidades
 - [Enrique & Fernando](./enrique_fernando.sh)
 - [Ejercicio Usuarios & Permisos](./ejercicio_usuarios_permisos.sh)
 - [Ejercicio Poema](./poema.sh)
-- [Menú de Opciones](./menu_opciones.sh)
 
   
