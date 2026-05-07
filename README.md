@@ -5,7 +5,7 @@ Recopilación de Scripts y Apuntes en Bash almacenados con múltiples utilidades
 # Scripts
 
 - [Gestión de Usuarios](./Gestion_Usuarios.sh)
-- [Creación y Eliminación](./Creacion_Eliminacion.sh)
+- [Creación y Eliminación Usuarios](./Creacion_Eliminacion.sh)
 - [Menú de Opciones](./menu_opciones.sh)
 - [Animación Calavera](./calavera.sh)
 - [Comprobar Contraseña](.comprobar_contraseña.sh)
