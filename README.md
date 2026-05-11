@@ -34,4 +34,4 @@
 
 # Trabajos
 
-- [Propuesta Profesor Confección Librerias](./Indice_Ejercicios.txt)
+- [Propuesta Profesor Confección Librerias](./Trabajos/Indice_Ejercicios.txt)
