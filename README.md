@@ -31,3 +31,7 @@
 
 - [Sistemas de Archivos](./Teoria/Sistema_Archivos.txt)
 - [Tablas de Particiones](./Teoria/Tabla_Particiones.txt)
+
+# Trabajos
+
+- [Propuesta Profesor Confección Librerias](./Indice_Ejercicios.txt)
