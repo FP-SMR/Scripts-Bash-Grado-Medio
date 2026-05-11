@@ -1,0 +1,43 @@
+1. Sistema de Archivos
+
+- Creación y gestión archivos y carpetas – prueba de comandos
+
+- Comandos de Búsqueda
+
+- Prueba comandos grep, find, locate
+
+- Script con grep: identifica si usuario existe.
+
+2. Gestión Usuarios, Grupos y Permisos
+
+- Menú para añadir usuario si no existe, o eliminarlo si existe
+
+- Crear Usuarios y Carpetas y cambiar de propiedad la carpeta
+
+3. Gestión Procesos, Servicios y Daemon.
+
+- Parar, arrancar, status de Servicios Apache, MySQL
+
+- Programador de Tareas Cron
+
+- Administrador de Tareas
+
+4. Gestión de Hardware y Dispositivos
+
+- comandos administración de discos
+
+5. Gestión Seguridad y Redes.
+
+- ejercicio SSH
+
+6. Lógica
+
+- Contraseña sin limite de intentos
+
+- contraseña con límite de intentos
+
+-Pregunta Nombre de Usuarios - Pregunta nombre de dos usuarios
+
+Menús con if anidado
+
+Menús con Case Of
